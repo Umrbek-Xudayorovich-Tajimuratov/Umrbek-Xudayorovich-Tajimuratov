@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web-developers
 - 📫 How to reach me? -> umrbek.xudayorovich@gmail.com / Khorezm.Uzbekistan
 - 🔗 My blog : <a target="_blank" href="http://iamdev.uz/" style="color: #A691D4">iamdev.uz</a>
-<img src="https://media.vanityfair.com/photos/62ab4968cac119b951a73705/1:1/w_1999,h_1999,c_limit/lola-tung-portrait-2022-story.jpg" />
+<img src="https://drive.google.com/file/d/1yx7mOtk8NsFcG0gsyxqMUUAgTW2B6ZQz/view?usp=sharing" />
 <!---
 Umrbek-Xudayorovich-Tajimuratov/Umrbek-Xudayorovich-Tajimuratov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
