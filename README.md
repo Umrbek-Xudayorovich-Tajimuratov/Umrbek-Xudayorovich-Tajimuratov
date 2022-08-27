@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1yx7mOtk8NsFcG0gsyxqMUUAgTW2B6ZQz/view?usp=sharing" />
 ###  Hi, I’m Umrbek Tajimuratov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" />
 - 👀 I’m interested in coding, solve new problems and walking in fresh air
 - 🌱 I’m currently using { Javascript, React, Python, Django ... } 
