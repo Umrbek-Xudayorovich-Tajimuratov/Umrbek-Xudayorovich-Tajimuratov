@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47wtscbwjg7bnoemr3gr57mbpwsco3j4w8f2a89yye&rid=giphy.gif&ct=s" width="30px" /> Hi, I’m @Umrbek-Xudayorovich-Tajimuratov
+### <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b7611b5b6a420526574d82e2af2764f9c29b0033c1de9&rid=giphy.gif&ct=s" width="27px" /> Hi, I’m @Umrbek-Xudayorovich-Tajimuratov
 - 👀 I’m interested in coding, solve new problems and walking in fresh air
 - 🌱 I’m currently learning { React, Python } 
 - 💞️ I’m looking to collaborate on Web-developers
