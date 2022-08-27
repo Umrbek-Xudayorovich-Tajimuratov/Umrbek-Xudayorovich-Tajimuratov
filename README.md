@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web-developers
 - 📫 How to reach me? -> umrbek.xudayorovich@gmail.com / Khorezm.Uzbekistan
 - 🔗 My blog : <a target="_blank" href="http://iamdev.uz/" style="color: #A691D4">iamdev.uz</a>
-<img src="https://scontent.fppk1-1.fna.fbcdn.net/v/t1.6435-9/188472129_528784038149475_4040288042198952310_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YeboVGopLpUAX_3BcRd&_nc_ht=scontent.fppk1-1.fna&oh=00_AT8x2j1Bh_Whd3jJWVC6zF-yGYmNFosjVuW2sXndhYY64A&oe=633044A7" />
+<img src="https://scontent.fppk1-1.fna.fbcdn.net/v/t39.30808-6/301929856_810981683263041_3924932775504961249_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=Cw7HKX4Xw64AX-YyWeA&_nc_ht=scontent.fppk1-1.fna&oh=00_AT_rn1p82-dITeQ67TtdYv5pOzs1j6dAWby_i830-HnnmA&oe=630DCDCE" />
 <!---
 Umrbek-Xudayorovich-Tajimuratov/Umrbek-Xudayorovich-Tajimuratov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
