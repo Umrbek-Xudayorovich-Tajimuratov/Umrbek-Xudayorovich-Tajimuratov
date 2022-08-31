@@ -1,4 +1,4 @@
-<img src="https://scontent.fppk1-1.fna.fbcdn.net/v/t39.30808-6/301929856_810981683263041_3924932775504961249_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=Cw7HKX4Xw64AX-YyWeA&_nc_ht=scontent.fppk1-1.fna&oh=00_AT_rn1p82-dITeQ67TtdYv5pOzs1j6dAWby_i830-HnnmA&oe=630DCDCE" layout="fill" alt='berda rasm bo'/> <br> <br>
+<img src="https://github.com/Umrbek-Xudayorovich-Tajimuratov/Umrbek-Xudayorovich-Tajimuratov/blob/main/myself%20banner.png" alt='umrbek banner'/> <br> <br>
 ![Profile views](https://gpvc.arturio.dev/umrbek-xudayorovich-tajimuratov)  
 ## <i> Hi, I’m Umrbek Tajimuratov </i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" />
 - 👀 I’m interested in coding, solve new problems and walking in fresh air
